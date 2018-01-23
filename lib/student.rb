@@ -22,4 +22,16 @@ class Student
     DB[:conn].execute(sql)
   end
 
+  def sself.drop_table
+
+  end
+
+  def save
+
+  end
+
+  def self.create
+
+  end
+
 end
